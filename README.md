@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hippolyte</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [Iko3](https://www.iko3.com/)
+- 🔭 I’m currently working on [iko3](https://www.iko3.com/)
 
-- 🌱 I’m currently learning **vuejs & svelte**
+- 🌱 I’m currently learning **Vue & Svelte**
 
-- 💬 Ask me about **react, css and blockchain**
+- 👯 I’m looking to collaborate if **you have a great idea**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hippolyte-jacque/](https://www.linkedin.com/in/hippolyte-jacque/)
+- 💬 Ask me about **React, Solidity & TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
