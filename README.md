@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [iko3](https://www.iko3.com/)
 
-- 🌱 I’m currently learning **Vue & Svelte**
+- 🌱 I’m currently learning about **networks and security**
 
 - 👯 I’m looking to collaborate if **you have a great idea**
 
