@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hippolyte</h1>
-<h3 align="center">Born to code, from [42](https://42.fr/en/homepage/)</h3>
+<h3 align="center">Born to code, from 42</h3>
 
 - 🔭 I’m currently working on [iko3](https://www.iko3.com/)
 
