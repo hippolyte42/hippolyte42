@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hippolyte</h1>
 <h3 align="center">Born to code, alumni from 42</h3>
 
-- 🔭 Currently a fullstack developer working on [iko3](https://www.iko3.com/)
+- 🔭 Currently a full stack developer working on [iko3](https://www.iko3.com/)
 
 - 👯 I’m looking to collaborate if **you have a great idea**
 
