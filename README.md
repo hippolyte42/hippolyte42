@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Hippolyte 🐧</h1>
-<h3 align="center">Born to code, 42</h3>
+<h1 align="center">Hi, I'm Hippolyte</h1>
+<h3 align="center">from @42born2code</h3>
 
-- ⌨️ Full stack developer at [Polyconseil](https://www.polyconseil.fr/)
+- ⌨️ Full stack developer at [Cyrius](https://cyrius.co/)
 
 - 🪢 I’m looking to collaborate if **you have a great idea**
 
