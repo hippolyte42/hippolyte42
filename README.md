@@ -8,9 +8,13 @@
 
 #### Previously:
 
-<img src="https://www.polyconseil.fr/sites/polyconseil/themes/polyconseil/favicon.ico" height="25px" width="25px"/> Software engineer at [Polyconseil](https://www.polyconseil.fr/), a digital innovation specialist, tackles complex, high-stakes projects
 
-<img src="https://www.d-edge.com/wp-content/themes/d-edge/img/apple-touch-icon.png" height="25px" width="25px"/> Intern & Software engineer at [D-EDGE](https://www.d-edge.com/), the European No1 and World No3 hotel distribution technology provider
+<a href="https://www.polyconseil.fr/"><img src="https://www.polyconseil.fr/sites/polyconseil/themes/polyconseil/favicon.ico" height="25px" width="25px"/></a>
+<a href="https://www.coviflex.com/"><img src="https://www.coviflex.com/sites/coviflex/files/favicon-coviflex.png" height="25px" width="25px"/></a>
+<a href="https://www.soulwareproject.com"><img src="https://www.soulwareproject.com/images/favicon.ico" height="25px" width="25px"/></a>
+<a href="https://www.cryptoadpunks.xyz"><img src="https://www.cryptoadpunks.xyz/favicon.ico" height="25px" width="25px"/></a>
+<a href="https://www.kering.com"><img src="https://www.kering.com/assets/front/images/favicon/apple-touch-icon.png" height="25px" width="25px"/></a>
+<a href="https://www.d-edge.com/"><img src="https://www.d-edge.com/wp-content/themes/d-edge/img/apple-touch-icon.png" height="25px" width="25px"/></a>
 
 ---
 
