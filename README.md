@@ -21,6 +21,6 @@
 
 ---
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64488103e272577374979a4d?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64488103e272577374979a4d?variant=dark)](https://roadmap.sh)
 
 [![codewars.com](https://www.codewars.com/users/hippolyte42/badges/large)](https://www.codewars.com)
