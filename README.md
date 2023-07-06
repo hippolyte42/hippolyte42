@@ -1,6 +1,6 @@
 # Hi, I'm Hippolyte
 
-<a href="https://cyrius.co"><img src="https://user-images.githubusercontent.com/1637101/188271829-5d4d2abf-a1a3-4c54-969f-cf6bb3be9275.png" height="25px" width="25px"/></a> Software engineer at [Cyrius](https://cyrius.co/), a startup working hard on reducing the human risk regarding cybersecurity
+<a href="https://cyrius.co"><img src="https://user-images.githubusercontent.com/1637101/188271829-5d4d2abf-a1a3-4c54-969f-cf6bb3be9275.png" height="25px" width="25px"/></a> Software engineer at [Cyrius](https://en.cyrius.co), a startup working hard on reducing the human risk regarding cybersecurity
 
 <a href="https://42.fr/en/homepage"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" height="25px" width="25px"/></a> Alumni from [42](https://42.fr/en/homepage), a future-proof computer science training to educate the next generation of software engineers
 
