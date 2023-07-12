@@ -14,7 +14,7 @@
 <a href="https://www.coviflex.com"><img src="https://www.coviflex.com/sites/coviflex/files/favicon-coviflex.png" height="25px" width="25px"/></a>
 <a href="https://www.cryptoadpunks.xyz"><img src="https://www.cryptoadpunks.xyz/favicon.ico" height="25px" width="25px"/></a>
 <a href="https://www.soulwareproject.com"><img src="https://www.soulwareproject.com/images/favicon.ico" height="25px" width="25px"/></a>
-<a href="https://www.kering.com"><img src="https://www.kering.com/assets/front/images/favicon/apple-touch-icon.png" height="25px" width="25px"/></a>
+<a href="https://www.kering.com"><img src="https://www.kering.com/images/favicon/apple-touch-icon.png" height="25px" width="25px"/></a>
 <a href="https://group.accor.com/en"><img src="https://group.accor.com/favicon.ico" height="25px" width="25px"/></a>
 <a href="https://www.d-edge.com"><img src="https://www.d-edge.com/wp-content/themes/d-edge/img/apple-touch-icon.png" height="25px" width="25px"/></a>
 <a href="https://www.karibea.com/en"><img src="https://www.karibea.com/wp-content/uploads/sites/222/fb_favicon/favicon-32x32.png" height="25px" width="25px"/></a>
